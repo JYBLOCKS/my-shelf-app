@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "Encuentra tu libro perfecto",
+    "description": "Califica, reseña y guarda tu próximo libro favorito"
+  },
+  "navBar": {
+    "title": "MyShelf",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "profile": "Perfil",
+    "wishlist": "Lista de deseos",
+    "favorites": "Favoritos",
+    "myRanks": "Calificados"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "button": "Iniciar sesión",
+    "register": "Registrarse",
+    "error": "Correo electrónico o contraseña inválidos",
+    "success": "Inicio de sesión exitoso",
+    "legend": "Inicia sesión en tu cuenta",
+    "title": "MyShelf"
+  },
+  "footer": {
+    "policy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "cookie": "Política de cookies",
+    "copyright": "© 2025 by Jose Arredondo."
+  },
+  "book": {
+    "yourRating": "Tu calificación"
+  }
+}

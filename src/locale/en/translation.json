@@ -1,0 +1,34 @@
+{
+  "hero": {
+    "title": "Find Your Perfect Book",
+    "description": "Score, review and save your next favorite book"
+  },
+  "navBar": {
+    "title": "MyShelf",
+    "login": "Login",
+    "logout": "Logout",
+    "profile": "Profile",
+    "wishlist": "Wishlist",
+    "favorites": "Favorites",
+    "myRanks": "My Ranks"
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "button": "Login",
+    "register": "Register",
+    "error": "Invalid email or password",
+    "success": "Login successful",
+    "legend": "Login to your account",
+    "title": "MyShelf"
+  },
+  "footer": {
+    "policy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookie": "Cookie Policy",
+    "copyright": "© 2025 by Jose Arredondo."
+  },
+  "book": {
+    "yourRating": "Your Rating"
+  }
+}
